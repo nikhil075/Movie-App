@@ -2,7 +2,7 @@
 ---
 
 
-![Movie App](https://github.com/nikhil075/movie_app_screenshot.png)
+![Movie App](https://github.com/nikhil075/Movie-App/blob/main/movie_app_screenshot.png)
 
 ## Description
 The Movie App is a web application that allows users to browse, search, and discover movies. Users can explore a wide range of movies based on popularity, genre, or specific search queries. The app integrates with The Movie Database (TMDB) API to fetch movie data dynamically. It features a responsive design, making it accessible across various devices.
